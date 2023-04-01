@@ -1,2 +1,2 @@
 # animalexa
-Convert a animatronic on alexa/siri puppet
+Convert a animatronic/dancing toy on alexa/siri puppet
